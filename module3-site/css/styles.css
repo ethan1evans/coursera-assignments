@@ -1,5 +1,6 @@
 
 /**HEADER**/
+
 #header-nav {
     background-color: lightgray;
     border-radius: 0;
@@ -27,4 +28,6 @@ p {
     padding: 10px;
 }
 
-/**FOOTER**/
+.title{
+    font-size: 32px;
+}
